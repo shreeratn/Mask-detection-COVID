@@ -9,7 +9,7 @@ img_width , img_height = 150,150
 
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
-cap = cv2.VideoCapture('video.mp4')
+cap = cv2.VideoCapture(0)
 
 img_count_full = 0
 
@@ -23,7 +23,7 @@ thickness = 2
 while True:
 	img_count_full += 1
 	response , color_img = cap.read()
-
+ 
 	if response == False:
 		break
 
