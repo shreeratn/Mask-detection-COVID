@@ -2,11 +2,11 @@
 
 <br />
 <p align="center">
+  <p align="center">
+    <img src="archive/correct_mask.svg" width = "100" height = "100">
+    </p>
   <h3 align="center">
-  [mask](https://github.com/shreeratn/Mask-detection-COVID/blob/main/archive/svg/correct_mask.svg)
-
-  Real time face mask detection in python</h3>
-
+    Real time face mask detection in python</h3>
   <p align="center">
     An awesome and easy to use detector with training samples
     <br />
