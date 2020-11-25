@@ -141,3 +141,7 @@ Project Link: [Github](https://github.com/shreeratn/Mask-detection-COVID)
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Udemy](https://www.udemy.com/course/data-science-hands-on-covid19-face-mask-detection-cnn-opencv/)
+
+
+
+<meta name="google-site-verification" content="tFxjh6agW4Yyog2gamdLBfeYrtJJtCk4FO7FSsB5RgI" />
