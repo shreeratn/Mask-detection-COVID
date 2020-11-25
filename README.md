@@ -34,20 +34,22 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+This COVID-19 pandemic has raised many concerns regarding health and our environment and inorder to stop them from spreading is wearking mask in public places. Therefore this issue inorder to be addressed efficiently cannot be possible by humans single handedly.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+* Even if  a team of people are gathered it would be difficult to keep a note of all people not wearing masks
+* Manual labour can be reduced and thus reduing the price of expenditure on hiring more people for a job which can be accomplished by machine
+* This can not only be used for mask detection but can be tweaked a bit and then used for attendance manager in workplaces or schools, etc
+
+Of course, no machine can be perfected completly but this detector has accuracy of over 90% and can learn from the usage too.
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
+
+Here are list of major deendencies for this project 
+* [Python](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
 
