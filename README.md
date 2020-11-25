@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <h3 align="center">Reatime face mask detection in python</h3>
+  <h3 align="center">Real time face mask detection in python</h3>
 
   <p align="center">
     An awesome and easy to use detector with training samples
@@ -15,7 +15,7 @@
 
 - [Face mask Detection](#face-mask-detection)
   - [Table of Contents](#table-of-contents)
-  - [About The Project](#about-the-project)
+  - [About the Project](#about-the-project)
     - [Built With](#built-with)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
@@ -30,17 +30,20 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About the Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This COVID-19 pandemic has raised many concerns regarding health and our environment and inorder to stop them from spreading is wearking mask in public places. Therefore this issue inorder to be addressed efficiently cannot be possible by humans single handedly.
+This COVID-19 pandemic has raised many concerns regarding health and our environment and to stop them from spreading is wearing mask in public places. Therefore, this issue to be addressed efficiently cannot be possible by humans single handedly.
 
 Here's why:
 
-* Even if  a team of people are gathered it would be difficult to keep a note of all people not wearing masks
-* Manual labour can be reduced and thus reduing the price of expenditure on hiring more people for a job which can be accomplished by machine
-* This can not only be used for mask detection but can be tweaked a bit and then used for attendance manager in workplaces or schools, etc
+* Even if a team of people are gathered it would be difficult to keep a note of all people not wearing masks
+* Manual labor can be reduced and thus reducing the price of expenditure on hiring more people for a job which can be accomplished by machine
+* This can not only be used for mask detection but can be tweaked a bit and then used for attendance manager in workplaces or schools, etc.
+
+
+Of course, no machine can be perfected completely but this detector has accuracy of over 90% and can learn from the usage too.
 
 Of course, no machine can be perfected completly but this detector has accuracy of over 90% and can learn from the usage too.
 
@@ -48,7 +51,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
-Here are list of MAJOR deendencies for this project(for running this you will need a few more too; and how to install them is shown further below)
+Here is list of MAJOR dependencies for this project (for running this you will need a few more too; and how to install them is shown further below)
 * [Python](https://www.python.org/)
 * [Tensorflow](https://www.tensorflow.org/)
 * [OpenCV](https://opencv.org/)
@@ -78,7 +81,7 @@ pip install tensorflow --user
 ```sh
 pip install matplotlib --user
 ```
-* Numpy
+* NumPy
 ```sh
 pip install numpy --user
 ```
@@ -89,7 +92,7 @@ pip install cv2 --user
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-* If user wants to see the how the model is created then open the Mask_detection.ipynb file or just run it directly to create model.
+* If user wants to see the how the model is created, then open the Mask_detection.ipynb file or just run it directly to create model.
 
 * Run the mask.py in ./Detect for the input and output
 
@@ -104,7 +107,7 @@ No further features are planned to be added, if planned it will be shown here
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch
@@ -126,7 +129,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Shree Ratn 
 - [Twitter](https://twitter.com/ratn_shree)
-- [Linkedin](hhtps://linkedin.com/in/shreeratn)
+- [LinkedIn](hhtps://linkedin.com/in/shreeratn)
 
 Project Link: [Github](https://github.com/shreeratn/Mask-detection-COVID)
 
