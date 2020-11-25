@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <p align="center">
-    <img src="https://github.com/shreeratn/Mask-detection-COVID/blob/main/archive/svg/002-mask-1.svg" width = "100" height = "100">
+    <img src="https://github.com/shreeratn/Mask-detection-COVID/blob/main/archive/svg/002-mask-1.svg" width = "300" height = "300">
     </p>
   <h3 align="center">
     Real time face mask detection in python</h3>
