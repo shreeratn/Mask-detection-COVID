@@ -48,51 +48,49 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
-Here are list of major deendencies for this project 
+Here are list of MAJOR deendencies for this project(for running this you will need a few more too; and how to install them is shown further below)
 * [Python](https://www.python.org/)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Tensorflow](https://www.tensorflow.org/)
+* [OpenCV](https://opencv.org/)
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+List of things you need to use the software and how to install them.
+* Python
+* Tensorflow
+* CV2
+
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+* Tensorflow
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+pip install tensorflow --user
 ```
-3. Install NPM packages
+* Matplotlib
 ```sh
-npm install
+pip install matplotlib --user
 ```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
+* Numpy
+```sh
+pip install numpy --user
 ```
-
-
+* CV2
+```sh
+pip install cv2 --user
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
