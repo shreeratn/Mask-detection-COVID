@@ -132,7 +132,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Shree Ratn 
 - [Twitter](https://twitter.com/ratn_shree)
-- [LinkedIn](hhtps://linkedin.com/in/shreeratn)
+- [LinkedIn](https://linkedin.com/in/shreeratn)
 
 Project Link: [Github](https://github.com/shreeratn/Mask-detection-COVID)
 
