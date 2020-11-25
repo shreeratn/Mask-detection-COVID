@@ -49,7 +49,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Built With
 
 Here are list of major deendencies for this project 
-* [Python](https://getbootstrap.com)
+* [Python](https://www.python.org/)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
 
