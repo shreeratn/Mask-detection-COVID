@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="tFxjh6agW4Yyog2gamdLBfeYrtJJtCk4FO7FSsB5RgI" />
 # Face mask Detection
 
 <br />
