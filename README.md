@@ -48,8 +48,6 @@ Here's why:
 
 Of course, no machine can be perfected completely but this detector has accuracy of over 90% and can learn from the usage too.
 
-Of course, no machine can be perfected completly but this detector has accuracy of over 90% and can learn from the usage too.
-
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
