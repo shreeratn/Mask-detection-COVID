@@ -28,7 +28,6 @@
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact](#contact)
-  - [Acknowledgements](#acknowledgements)
 
 
 
@@ -134,8 +133,3 @@ Shree Ratn
 
 Project Link: [Github](https://github.com/shreeratn/Mask-detection-COVID)
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Udemy](https://www.udemy.com/course/data-science-hands-on-covid19-face-mask-detection-cnn-opencv/)
